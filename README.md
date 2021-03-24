@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Naman 
 - 👀 I’m a programmer in python, c++ and Java
 - 🌱 I’m currently developing discord bot for a company
-- 💞️ I’m looking to collaborate on any projects
 - 📫 You can connect me on namansinha794@gmail.com
 
 <!---
