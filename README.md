@@ -19,3 +19,6 @@
 
 
 
+[![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naman794&count_private=true&show_icons=true&theme=radical)](https://github.com/Naman794)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naman794&langs_count=10)](https://github.com/Aman-14)
