@@ -18,7 +18,7 @@
 [<img align="left" alt="Naman794 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/namansinha20/?hl=en)
 
 
-
+##Stats:
 
 [![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naman794&count_private=true&show_icons=true&theme=radical)](https://github.com/Naman794)
 
