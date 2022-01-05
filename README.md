@@ -12,8 +12,8 @@
 - ⚡ Fun fact: I love to Create games and play guitar / drums
 
 
-[![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naman794&count_private=true&show_icons=true&theme=shades-of-purple)](https://github.com/Naman794)
+<img align ="left" src="https://github-readme-stats.vercel.app/api?username=Naman794&count_private=true&show_icons=true&theme=shades-of-purple" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naman794&layout=compact)](https://github.com/Naman794/github-readme-stats)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman794&layout=compact" />
 
 
