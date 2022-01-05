@@ -16,7 +16,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naman794&langs_count=10)](https://github.com/Naman794)
 
-[<img align="left" alt="Naman794 | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/Naman794)
-[<img align="left" alt="Naman794 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Zatan2020)
-[<img align="left" alt="Naman794 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/naman-sinha-4120b31a3/)
-[<img align="left" alt="Naman794 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/namansinha20/?hl=en)
+
