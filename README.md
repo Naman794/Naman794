@@ -5,7 +5,7 @@
 
 ## I'm a programmer in python, c++ and Java !!!!
 
-- 🔭 I just launched my first Discord BOT: [Web][rooter.gg]
+- 🔭 I just launched my first Discord BOT: [Web](discord.gg/rooter)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators, programmers.
 - 🥅 2020 Goals: Contribute more to Open Source projects
