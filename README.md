@@ -14,6 +14,6 @@
 
 [![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naman794&count_private=true&show_icons=true&theme=shades-of-purple)](https://github.com/Naman794)
 
-[![Top Langs]([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naman794&layout=compact)](https://github.com/Naman794/github-readme-stats))
+([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naman794&layout=compact)](https://github.com/Naman794/github-readme-stats))
 
 
