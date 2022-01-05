@@ -5,11 +5,11 @@
 
 ## I'm a programmer in python, c++ and Java !!!!
 
-- 🔭 I just launched my first Discord BOT: [Web](discord.gg/rooter)
+- 🔭 I have launched many [Discord BOT](https://top.gg/user/485489178583498764)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators, programmers.
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to Create games and play guitar / drums
 
 ### Connect with me:
 [<img align="left" alt="Naman794 | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/Naman794)
