@@ -1,5 +1,6 @@
-### Hi there, I'm Naman 👋
+<p align="center"><a href="https://Naman794.github.io"><img width="35%" src="https://github.com/Naman794/imagesss/blob/c8af33cb811151239825dc9fae387a069f7b3d43/naman.gif" /></a></p>
 
+<br />
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Zatan2020?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FZatan2020&screen_name=Zatan2020)
 
@@ -11,11 +12,15 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Create games and play guitar / drums
 
-<br />
+**Languages:**
+**Languages and Tools:**  
 
-<code><img align="left" src="https://github-readme-stats.vercel.app/api?username=Naman794&count_private=true&show_icons=true&theme=shades-of-purple"><code/>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
-<code><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman794&layout=compact"><code/>
-
-<br />
+| <a href="https://github.com/Naman794/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Naman794&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Naman's github stats" /></a> | <a href="https://github.com/Naman794/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman794&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
