@@ -11,9 +11,11 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Create games and play guitar / drums
 
+<br />
 
-<img align ="left" src="https://github-readme-stats.vercel.app/api?username=Naman794&count_private=true&show_icons=true&theme=shades-of-purple" />
+<code><img align="left" src="https://github-readme-stats.vercel.app/api?username=Naman794&count_private=true&show_icons=true&theme=shades-of-purple"><code/>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman794&layout=compact" />
+<code><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman794&layout=compact"><code/>
 
+<br />
 
