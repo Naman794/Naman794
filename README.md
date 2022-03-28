@@ -1,4 +1,3 @@
-<p align="center"><a href="https://Naman794.github.io"><img width="35%" src="https://github.com/Naman794/imagesss/blob/c8af33cb811151239825dc9fae387a069f7b3d43/naman.gif" /></a></p>
 
 <br />
 
