@@ -20,6 +20,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
-| <a href="https://github.com/Naman794/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Naman794&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Naman's github stats" /></a> | <a href="https://github.com/Naman794/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman794&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+ <a href="https://github.com/Naman794/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Naman794&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Naman's github stats" /></a> 
+ <a href="https://github.com/Naman794/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman794&layout=compact&theme=buefy&hide_border=true" /></a> 
+ <a href="https://top.gg/bot/740968729323503637"><img src="https://top.gg/api/widget/740968729323503637.svg"></a> 
+
 
