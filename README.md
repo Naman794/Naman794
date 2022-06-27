@@ -3,6 +3,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Zatan2020?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FZatan2020&screen_name=Zatan2020)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Naman794" alt="Naman794" /> </p>
+
 ## I'm a programmer in python, c++ and Java !!!!
 
 - 🔭 I have launched many [Discord BOT](https://top.gg/user/485489178583498764)
