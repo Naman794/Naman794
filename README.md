@@ -24,6 +24,7 @@
 
  <a href="https://github.com/Naman794/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Naman794&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Naman's github stats" /></a> 
  <a href="https://github.com/Naman794/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman794&layout=compact&theme=buefy&hide_border=true" /></a> 
- <a [![GitHub Streak](https://streak-stats.demolab.com?user=Naman794&theme=dark)](https://git.io/streak-stats)/></a> 
+ 
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Naman794&theme=dark)](https://git.io/streak-stats)</a> 
 
 
