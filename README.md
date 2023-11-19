@@ -10,8 +10,8 @@
 - 🔭 I have launched many [Discord BOT](https://top.gg/user/485489178583498764)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators, programmers.
-- 🥅 2023 Goals: Contribute more to Open Source projects, Host a AWS peoject
-- ⚡ Fun fact: I love to Create games and play guitar / drums
+- 🥅 2023 Goals: Contribute more to Open Source projects, Host a AWS project
+- ⚡ Fun fact: I love to Create games and play guitar/drums
 
 **Languages:**
 **Languages and Tools:**  
