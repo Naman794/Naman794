@@ -12,10 +12,10 @@
 
 I'm Naman, a passionate programmer proficient in Python, C++, and Java.
 
-- 🔭 I have developed and launched several [Discord bots](https://top.gg/user/485489178583498764).
+- 🔭 I have developed and launched several Discord Bots.
 - 🌱 I’m currently exploring various technologies and learning new concepts.
 - 👯 I’m open to collaborating with other content creators and programmers.
-- 🥅 Goals for 2023: Contribute more to Open Source projects, Host a project on AWS.
+- 🥅 Goals for 2024: Contribute more to Open Source projects
 - ⚡ Fun fact: I enjoy creating games and playing the guitar and drums in my free time.
 
 ### Languages and Tools:
