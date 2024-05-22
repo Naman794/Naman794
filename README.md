@@ -18,6 +18,34 @@ I'm Naman, a passionate programmer proficient in Python, C++, and Java.
 - 🥅 Goals for 2024: Contribute more to Open Source projects
 - ⚡ Fun fact: I enjoy creating games and playing the guitar and drums in my free time.
 
+## Current Projects 📋
+
+### DataViz-Dash 📊
+A dynamic data visualization analysis platform that revolutionizes how users interact with Excel data. This web application allows for seamless upload, analysis, and visualization of data. It features:
+- Secure login
+- Fast processing through deep analysis
+- Various graph and chart visualizations within a responsive dashboard
+
+[Check out the project](https://github.com/Naman794/DataViz-Dash)
+
+### Smart Face Recognition Attendance 📷
+An AI-powered attendance system that replaces traditional methods with real-time face recognition. The system includes:
+- Real-time camera setup
+- Software to match faces and mark attendance instantly
+- Secure database for storing records
+
+[Check out the project](https://github.com/Naman794/Smart-Face-Recognition-Attendance)
+
+### Automated Entryway with Health Monitoring 🚪
+An Arduino-powered entry system designed to tackle health concerns by providing touchless access based on temperature checks. The system includes:
+- Touchless access granting
+- Visitor logging
+- Compliance with health regulations
+
+[Check out the project](https://github.com/Naman794/Automated-Entryway-Health-Monitoring)
+
+
+
 ### Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
