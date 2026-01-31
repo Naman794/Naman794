@@ -8,6 +8,12 @@
   I'm <b>Naman</b> — a programmer from India who enjoys building in <b>Python</b>, <b>C++</b>, <b>Java</b>, and <b>TypeScript</b>.
 </p>
 
+<p align="center">
+  <a href="https://github.com/Naman794">GitHub</a>
+  &nbsp;•&nbsp;
+  <a href="https://twitter.com/naaamkaafi">X (Twitter)</a>
+</p>
+
 ---
 
 ### ✨ About Me
@@ -16,6 +22,11 @@
 - 🤝 Open to collaborating with creators and programmers
 - 🎯 2026 goal: contribute more to Open Source
 - 🎸 Fun fact: I love making games + playing guitar & drums
+
+### ⚡ Quick Highlights
+- 💡 Interested in building practical tools with clean, simple UX
+- 🧠 Enjoys solving problems in DSA, backend systems, and automation
+- 🛠️ Favorite stack: Python + TypeScript (Node.js) for fast prototyping
 
 ---
 
@@ -41,6 +52,11 @@
   → https://github.com/Naman794/Smart-Face-Recognition-Attendance
 - **Automated Entryway with Health Monitoring** — Arduino-based touchless entry + temperature/visitor logging  
   → https://github.com/Naman794/Automated-Entryway-with-Health-Monitoring
+
+### 🧭 What I'm Focused On
+- Building reliable, maintainable features with strong documentation
+- Improving full-stack fundamentals with hands-on projects
+- Contributing to open-source libraries when possible
 
 ---
 
